@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vr-medical-visualizations/static/css/main.3b855e72.css",
-    "main.js": "/vr-medical-visualizations/static/js/main.ee92a066.js",
+    "main.js": "/vr-medical-visualizations/static/js/main.e863f825.js",
     "static/js/488.37cec9df.chunk.js": "/vr-medical-visualizations/static/js/488.37cec9df.chunk.js",
     "index.html": "/vr-medical-visualizations/index.html",
     "main.3b855e72.css.map": "/vr-medical-visualizations/static/css/main.3b855e72.css.map",
-    "main.ee92a066.js.map": "/vr-medical-visualizations/static/js/main.ee92a066.js.map",
+    "main.e863f825.js.map": "/vr-medical-visualizations/static/js/main.e863f825.js.map",
     "488.37cec9df.chunk.js.map": "/vr-medical-visualizations/static/js/488.37cec9df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b855e72.css",
-    "static/js/main.ee92a066.js"
+    "static/js/main.e863f825.js"
   ]
 }
